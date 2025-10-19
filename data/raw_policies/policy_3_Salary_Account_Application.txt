@@ -1,0 +1,30 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Salary Account Application
+Category: Account Opening
+
+REQUIREMENTS:
+
+Minimum Age: 18
+
+Maximum Age: 100
+
+Documents Required:
+  - PAN Card (mandatory for accounts above ₹50,000)
+  - Aadhaar Card
+  - Passport size photograph (2 copies)
+  - Address proof (Utility bill/Passport/Driving License)
+  - Initial deposit as per account type
+
+Minimum Balance: 5000
+
+Income Proof: Not required
+
+ELIGIBILITY CRITERIA:
+
+Resident Status: Indian Resident
+
+Employment: Salaried
+
+Special Conditions: None

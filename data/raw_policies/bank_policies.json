@@ -1,0 +1,1426 @@
+[
+  {
+    "form_type": "Savings Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Current Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Salary Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Salaried",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Senior Citizen Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Minor Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 10,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "Guardian required"
+    }
+  },
+  {
+    "form_type": "NRI Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "NRI",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Zero Balance Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 0,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Premium Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Required for Premium accounts"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Student Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Women's Savings Account Application",
+    "category": "Account Opening",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "documents_required": [
+        "PAN Card (mandatory for accounts above ₹50,000)",
+        "Aadhaar Card",
+        "Passport size photograph (2 copies)",
+        "Address proof (Utility bill/Passport/Driving License)",
+        "Initial deposit as per account type"
+      ],
+      "minimum_balance": 5000,
+      "income_proof": "Not required"
+    },
+    "eligibility": {
+      "resident_status": "Indian Resident",
+      "employment": "Any",
+      "special_conditions": "None"
+    }
+  },
+  {
+    "form_type": "Home Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "minimum_amount": 500000,
+      "maximum_amount": 50000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹50000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Personal Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 60,
+      "minimum_amount": 50000,
+      "maximum_amount": 2500000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹5000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Car Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "minimum_amount": 100000,
+      "maximum_amount": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹10000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Education Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 35,
+      "minimum_amount": 100000,
+      "maximum_amount": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹10000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Gold Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 75,
+      "minimum_amount": 25000,
+      "maximum_amount": 5000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹2500",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Business Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 25,
+      "maximum_age": 65,
+      "minimum_amount": 100000,
+      "maximum_amount": 50000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹10000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 2 years",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Loan Against Property Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 25,
+      "maximum_age": 70,
+      "minimum_amount": 500000,
+      "maximum_amount": 50000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹50000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Two Wheeler Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 60,
+      "minimum_amount": 25000,
+      "maximum_amount": 200000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹2500",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Agricultural Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "minimum_amount": 50000,
+      "maximum_amount": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹5000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "MSME Loan Application",
+    "category": "Loans",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "minimum_amount": 100000,
+      "maximum_amount": 20000000,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Last 6 months bank statements",
+        "Salary slips (last 3 months) or ITR (last 2 years)",
+        "Address proof",
+        "Passport size photographs (2 copies)",
+        "Property documents (for secured loans)",
+        "Employment proof"
+      ],
+      "income_requirement": "Minimum monthly income ₹10000",
+      "credit_score": "Minimum CIBIL score: 650"
+    },
+    "eligibility": {
+      "employment_type": [
+        "Salaried",
+        "Self-employed",
+        "Business"
+      ],
+      "work_experience": "Minimum 1 year",
+      "existing_loans": "Debt-to-income ratio should not exceed 50%"
+    }
+  },
+  {
+    "form_type": "Basic Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 15000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Premium Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 50000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Travel Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 50000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Cashback Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 50000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Rewards Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 50000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Business Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 50000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Student Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 15000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Secured Credit Card Application",
+    "category": "Credit Cards",
+    "requirements": {
+      "minimum_age": 21,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card (mandatory)",
+        "Aadhaar Card",
+        "Address proof",
+        "Income proof (Salary slips/ITR)",
+        "Passport size photograph"
+      ],
+      "minimum_income": 50000,
+      "credit_score": "Minimum CIBIL score: 700"
+    },
+    "eligibility": {
+      "employment_status": "Salaried/Self-employed",
+      "existing_cards": "Maximum 3 active credit cards"
+    }
+  },
+  {
+    "form_type": "Fixed Deposit Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "Recurring Deposit Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 1000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "Tax Saving FD Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "Senior Citizen FD Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Higher interest for senior citizens"
+    }
+  },
+  {
+    "form_type": "Flexi Deposit Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "Corporate FD Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "NRI Fixed Deposit Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "Cumulative Deposit Application",
+    "category": "Investments",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 100,
+      "minimum_deposit": 5000,
+      "maximum_deposit": 10000000,
+      "documents_required": [
+        "PAN Card (mandatory for deposits above ₹50,000)",
+        "Aadhaar Card",
+        "Savings account in the bank",
+        "Passport size photograph"
+      ],
+      "tenure": "7 days to 10 years"
+    },
+    "eligibility": {
+      "account_holder": "Must have savings account",
+      "special_benefits": "Standard rates"
+    }
+  },
+  {
+    "form_type": "KYC Update Form",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Address Change Form",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Mobile Number Update",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Email Update Form",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Nomination Form",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Account Closure Form",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Cheque Book Request",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Debit Card Application",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "ATM PIN Change",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Standing Instruction Form",
+    "category": "KYC & Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Customer ID",
+        "Updated documents (as applicable)",
+        "Signature"
+      ],
+      "verification": "OTP verification required",
+      "processing_time": "3-5 working days"
+    },
+    "eligibility": {
+      "account_status": "Active account required",
+      "verification": "In-person verification may be required"
+    }
+  },
+  {
+    "form_type": "Term Insurance Application",
+    "category": "Insurance",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Medical reports (if applicable)",
+        "Address proof",
+        "Passport size photographs",
+        "Nominee details"
+      ],
+      "medical_checkup": "Required for coverage above ₹50 lakhs"
+    },
+    "eligibility": {
+      "health_status": "No pre-existing conditions (or declare all)",
+      "coverage_amount": "Based on age and health"
+    }
+  },
+  {
+    "form_type": "Health Insurance Application",
+    "category": "Insurance",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Medical reports (if applicable)",
+        "Address proof",
+        "Passport size photographs",
+        "Nominee details"
+      ],
+      "medical_checkup": "Required for coverage above ₹50 lakhs"
+    },
+    "eligibility": {
+      "health_status": "No pre-existing conditions (or declare all)",
+      "coverage_amount": "Based on age and health"
+    }
+  },
+  {
+    "form_type": "Vehicle Insurance Application",
+    "category": "Insurance",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Medical reports (if applicable)",
+        "Address proof",
+        "Passport size photographs",
+        "Nominee details"
+      ],
+      "medical_checkup": "Not required"
+    },
+    "eligibility": {
+      "health_status": "No pre-existing conditions (or declare all)",
+      "coverage_amount": "Based on age and health"
+    }
+  },
+  {
+    "form_type": "Home Insurance Application",
+    "category": "Insurance",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Medical reports (if applicable)",
+        "Address proof",
+        "Passport size photographs",
+        "Nominee details"
+      ],
+      "medical_checkup": "Not required"
+    },
+    "eligibility": {
+      "health_status": "No pre-existing conditions (or declare all)",
+      "coverage_amount": "Based on age and health"
+    }
+  },
+  {
+    "form_type": "Travel Insurance Application",
+    "category": "Insurance",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Medical reports (if applicable)",
+        "Address proof",
+        "Passport size photographs",
+        "Nominee details"
+      ],
+      "medical_checkup": "Not required"
+    },
+    "eligibility": {
+      "health_status": "No pre-existing conditions (or declare all)",
+      "coverage_amount": "Based on age and health"
+    }
+  },
+  {
+    "form_type": "Personal Accident Insurance Application",
+    "category": "Insurance",
+    "requirements": {
+      "minimum_age": 18,
+      "maximum_age": 65,
+      "documents_required": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Medical reports (if applicable)",
+        "Address proof",
+        "Passport size photographs",
+        "Nominee details"
+      ],
+      "medical_checkup": "Not required"
+    },
+    "eligibility": {
+      "health_status": "No pre-existing conditions (or declare all)",
+      "coverage_amount": "Based on age and health"
+    }
+  },
+  {
+    "form_type": "Internet Banking Activation",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "Mobile Banking Registration",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "UPI Registration",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "NEFT/RTGS Form",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "IMPS Registration",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "E-Statement Request",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "Digital Locker Activation",
+    "category": "Digital Services",
+    "requirements": {
+      "documents_required": [
+        "Account number",
+        "Registered mobile number",
+        "Debit card details",
+        "OTP verification"
+      ],
+      "prerequisites": "Active savings/current account"
+    },
+    "eligibility": {
+      "account_status": "Active",
+      "mobile_verification": "Mandatory"
+    }
+  },
+  {
+    "form_type": "NRI Account Opening",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  },
+  {
+    "form_type": "Foreign Currency Account",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  },
+  {
+    "form_type": "FCNR Deposit",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  },
+  {
+    "form_type": "NRE Account",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  },
+  {
+    "form_type": "NRO Account",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  },
+  {
+    "form_type": "Foreign Remittance Form",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  },
+  {
+    "form_type": "Currency Exchange Form",
+    "category": "NRI Services",
+    "requirements": {
+      "documents_required": [
+        "Passport (mandatory)",
+        "Visa/Work Permit",
+        "PAN Card",
+        "Aadhaar Card",
+        "Overseas address proof",
+        "Indian address proof"
+      ],
+      "minimum_balance": 10000
+    },
+    "eligibility": {
+      "resident_status": "Non-Resident Indian",
+      "verification": "Enhanced due diligence required"
+    }
+  }
+]

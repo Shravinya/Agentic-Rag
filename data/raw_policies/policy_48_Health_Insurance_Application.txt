@@ -1,0 +1,27 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Health Insurance Application
+Category: Insurance
+
+REQUIREMENTS:
+
+Minimum Age: 18
+
+Maximum Age: 65
+
+Documents Required:
+  - PAN Card
+  - Aadhaar Card
+  - Medical reports (if applicable)
+  - Address proof
+  - Passport size photographs
+  - Nominee details
+
+Medical Checkup: Required for coverage above ₹50 lakhs
+
+ELIGIBILITY CRITERIA:
+
+Health Status: No pre-existing conditions (or declare all)
+
+Coverage Amount: Based on age and health

@@ -1,0 +1,120 @@
+{
+  "form_type": "Credit Card Application",
+  "form_category": "Credit Card",
+  "bank_name": "Premium Bank Limited",
+  "extracted_fields": {
+    "Applicant Name": {
+      "value": "Raj Kumar",
+      "type": "text",
+      "required": true
+    },
+    "Date of Birth": {
+      "value": "10/08/1988",
+      "type": "date",
+      "required": true
+    },
+    "Age": {
+      "value": "35",
+      "type": "number",
+      "required": true
+    },
+    "Mobile Number": {
+      "value": "+91 9876543212",
+      "type": "text",
+      "required": true
+    },
+    "Email": {
+      "value": "raj.kumar@email.com",
+      "type": "text",
+      "required": true
+    },
+    "PAN Number": {
+      "value": "PQRST5678U",
+      "type": "text",
+      "required": true
+    },
+    "Aadhaar Number": {
+      "value": "5555 6666 7777",
+      "type": "text",
+      "required": true
+    },
+    "Current Address": {
+      "value": "789 Business District, Bangalore",
+      "type": "text",
+      "required": true
+    },
+    "Employment Status": {
+      "value": "Self-Employed",
+      "type": "text",
+      "required": true
+    },
+    "Business Name": {
+      "value": "Kumar Enterprises",
+      "type": "text",
+      "required": true
+    },
+    "Monthly Income": {
+      "value": "₹85,000",
+      "type": "text",
+      "required": true
+    },
+    "Card Type Requested": {
+      "value": "Premium Credit Card",
+      "type": "text",
+      "required": true
+    },
+    "Existing Credit Cards": {
+      "value": "2",
+      "type": "number",
+      "required": true
+    },
+    "Credit Limit Required": {
+      "value": "₹3,00,000",
+      "type": "text",
+      "required": true
+    },
+    "Bank Account Number": {
+      "value": "123456789012",
+      "type": "text",
+      "required": true
+    },
+    "IFSC Code": {
+      "value": "PREM0005678",
+      "type": "text",
+      "required": true
+    },
+    "Signature": {
+      "value": "Raj Kumar",
+      "type": "signature",
+      "required": true
+    },
+    "Date": {
+      "value": "19/10/2025",
+      "type": "date",
+      "required": true
+    }
+  },
+  "filled_fields": [
+    "Applicant Name",
+    "Date of Birth",
+    "Age",
+    "Mobile Number",
+    "Email",
+    "PAN Number",
+    "Aadhaar Number",
+    "Current Address",
+    "Employment Status",
+    "Business Name",
+    "Monthly Income",
+    "Card Type Requested",
+    "Existing Credit Cards",
+    "Credit Limit Required",
+    "Bank Account Number",
+    "IFSC Code",
+    "Signature",
+    "Date"
+  ],
+  "unfilled_fields": [],
+  "total_fields": 18,
+  "confidence": "high"
+}

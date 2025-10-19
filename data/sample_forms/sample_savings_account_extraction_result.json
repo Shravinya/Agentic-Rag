@@ -1,0 +1,145 @@
+{
+  "form_type": "Savings Account Application",
+  "form_category": "Account",
+  "bank_name": "XYZ Bank Limited",
+  "extracted_fields": {
+    "Full Name": {
+      "value": "Jane Smith",
+      "type": "text",
+      "required": true
+    },
+    "Father's Name": {
+      "value": "Robert Smith",
+      "type": "text",
+      "required": true
+    },
+    "Date of Birth": {
+      "value": "20/05/1995",
+      "type": "date",
+      "required": true
+    },
+    "Age": {
+      "value": "28",
+      "type": "number",
+      "required": true
+    },
+    "Gender": {
+      "value": "Female",
+      "type": "text",
+      "required": true
+    },
+    "Marital Status": {
+      "value": "Single",
+      "type": "text",
+      "required": true
+    },
+    "Mobile Number": {
+      "value": "+91 9876543211",
+      "type": "number",
+      "required": true
+    },
+    "Email": {
+      "value": "jane.smith@email.com",
+      "type": "text",
+      "required": true
+    },
+    "PAN Number": {
+      "value": "ABCDE1234F",
+      "type": "text",
+      "required": true
+    },
+    "Aadhaar Number": {
+      "value": "9876 5432 1098",
+      "type": "number",
+      "required": true
+    },
+    "Residential Address": {
+      "value": "456 Park Avenue, Delhi",
+      "type": "text",
+      "required": true
+    },
+    "Occupation": {
+      "value": "Software Engineer",
+      "type": "text",
+      "required": true
+    },
+    "Annual Income": {
+      "value": "₹12,00,000",
+      "type": "number",
+      "required": true
+    },
+    "Account Type": {
+      "value": "Savings Account",
+      "type": "text",
+      "required": true
+    },
+    "Initial Deposit": {
+      "value": "₹10,000",
+      "type": "number",
+      "required": true
+    },
+    "Nominee Name": {
+      "value": "UNFILLED",
+      "type": "text",
+      "required": true
+    },
+    "Nominee Relationship": {
+      "value": "UNFILLED",
+      "type": "text",
+      "required": true
+    },
+    "Previous Bank Account": {
+      "value": "Yes",
+      "type": "checkbox",
+      "required": false
+    },
+    "Debit Card Required": {
+      "value": "Yes",
+      "type": "checkbox",
+      "required": false
+    },
+    "Internet Banking": {
+      "value": "Yes",
+      "type": "checkbox",
+      "required": false
+    },
+    "Signature": {
+      "value": "UNFILLED",
+      "type": "signature",
+      "required": true
+    },
+    "Date": {
+      "value": "UNFILLED",
+      "type": "date",
+      "required": true
+    }
+  },
+  "filled_fields": [
+    "Full Name",
+    "Father's Name",
+    "Date of Birth",
+    "Age",
+    "Gender",
+    "Marital Status",
+    "Mobile Number",
+    "Email",
+    "PAN Number",
+    "Aadhaar Number",
+    "Residential Address",
+    "Occupation",
+    "Annual Income",
+    "Account Type",
+    "Initial Deposit",
+    "Previous Bank Account",
+    "Debit Card Required",
+    "Internet Banking"
+  ],
+  "unfilled_fields": [
+    "Nominee Name",
+    "Nominee Relationship",
+    "Signature",
+    "Date"
+  ],
+  "total_fields": 22,
+  "confidence": "high"
+}

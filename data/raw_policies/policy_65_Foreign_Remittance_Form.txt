@@ -1,0 +1,23 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Foreign Remittance Form
+Category: NRI Services
+
+REQUIREMENTS:
+
+Documents Required:
+  - Passport (mandatory)
+  - Visa/Work Permit
+  - PAN Card
+  - Aadhaar Card
+  - Overseas address proof
+  - Indian address proof
+
+Minimum Balance: 10000
+
+ELIGIBILITY CRITERIA:
+
+Resident Status: Non-Resident Indian
+
+Verification: Enhanced due diligence required

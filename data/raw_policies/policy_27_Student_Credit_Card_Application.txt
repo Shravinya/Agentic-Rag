@@ -1,0 +1,28 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Student Credit Card Application
+Category: Credit Cards
+
+REQUIREMENTS:
+
+Minimum Age: 18
+
+Maximum Age: 65
+
+Documents Required:
+  - PAN Card (mandatory)
+  - Aadhaar Card
+  - Address proof
+  - Income proof (Salary slips/ITR)
+  - Passport size photograph
+
+Minimum Income: 15000
+
+Credit Score: Minimum CIBIL score: 700
+
+ELIGIBILITY CRITERIA:
+
+Employment Status: Salaried/Self-employed
+
+Existing Cards: Maximum 3 active credit cards

@@ -1,0 +1,133 @@
+{
+  "form_type": "Personal Loan Application",
+  "form_category": "Loan",
+  "bank_name": "ABC Bank Limited",
+  "extracted_fields": {
+    "Applicant Name": {
+      "value": "John Doe",
+      "type": "text",
+      "required": true
+    },
+    "Date of Birth": {
+      "value": "15/03/1990",
+      "type": "date",
+      "required": true
+    },
+    "Age": {
+      "value": "17",
+      "type": "number",
+      "required": true
+    },
+    "Gender": {
+      "value": "Male",
+      "type": "text",
+      "required": true
+    },
+    "Mobile Number": {
+      "value": "+91 9876543210",
+      "type": "number",
+      "required": true
+    },
+    "Email": {
+      "value": "john.doe@email.com",
+      "type": "text",
+      "required": true
+    },
+    "PAN Number": {
+      "value": "UNFILLED",
+      "type": "text",
+      "required": true
+    },
+    "Aadhaar Number": {
+      "value": "1234 5678 9012",
+      "type": "number",
+      "required": true
+    },
+    "Current Address": {
+      "value": "123 Main Street, Mumbai, Maharashtra",
+      "type": "text",
+      "required": true
+    },
+    "Employment Type": {
+      "value": "Salaried",
+      "type": "text",
+      "required": true
+    },
+    "Company Name": {
+      "value": "Tech Corp India",
+      "type": "text",
+      "required": true
+    },
+    "Monthly Income": {
+      "value": "₹45,000",
+      "type": "number",
+      "required": true
+    },
+    "Loan Amount Required": {
+      "value": "₹5,00,000",
+      "type": "number",
+      "required": true
+    },
+    "Loan Tenure": {
+      "value": "36 months",
+      "type": "text",
+      "required": true
+    },
+    "Purpose of Loan": {
+      "value": "Home Renovation",
+      "type": "text",
+      "required": true
+    },
+    "Existing Loans": {
+      "value": "None",
+      "type": "text",
+      "required": true
+    },
+    "Bank Account Number": {
+      "value": "UNFILLED",
+      "type": "number",
+      "required": true
+    },
+    "IFSC Code": {
+      "value": "ABCD0001234",
+      "type": "text",
+      "required": true
+    },
+    "Signature": {
+      "value": "UNFILLED",
+      "type": "signature",
+      "required": true
+    },
+    "Date": {
+      "value": "UNFILLED",
+      "type": "date",
+      "required": true
+    }
+  },
+  "filled_fields": [
+    "Applicant Name",
+    "Date of Birth",
+    "Age",
+    "Gender",
+    "Mobile Number",
+    "Email",
+    "Aadhaar Number",
+    "Current Address",
+    "Employment Type",
+    "Company Name",
+    "Monthly Income",
+    "Loan Amount Required",
+    "Loan Tenure",
+    "Purpose of Loan",
+    "Existing Loans",
+    "IFSC Code"
+  ],
+  "unfilled_fields": [
+    "PAN Number",
+    "Bank Account Number",
+    "Signature",
+    "Date"
+  ],
+  "total_fields": 20,
+  "confidence": "high"
+}

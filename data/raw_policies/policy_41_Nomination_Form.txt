@@ -1,0 +1,23 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Nomination Form
+Category: KYC & Services
+
+REQUIREMENTS:
+
+Documents Required:
+  - Account number
+  - Customer ID
+  - Updated documents (as applicable)
+  - Signature
+
+Verification: OTP verification required
+
+Processing Time: 3-5 working days
+
+ELIGIBILITY CRITERIA:
+
+Account Status: Active account required
+
+Verification: In-person verification may be required

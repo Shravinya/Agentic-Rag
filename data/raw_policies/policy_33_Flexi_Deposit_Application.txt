@@ -1,0 +1,29 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Flexi Deposit Application
+Category: Investments
+
+REQUIREMENTS:
+
+Minimum Age: 18
+
+Maximum Age: 100
+
+Minimum Deposit: 5000
+
+Maximum Deposit: 10000000
+
+Documents Required:
+  - PAN Card (mandatory for deposits above ₹50,000)
+  - Aadhaar Card
+  - Savings account in the bank
+  - Passport size photograph
+
+Tenure: 7 days to 10 years
+
+ELIGIBILITY CRITERIA:
+
+Account Holder: Must have savings account
+
+Special Benefits: Standard rates

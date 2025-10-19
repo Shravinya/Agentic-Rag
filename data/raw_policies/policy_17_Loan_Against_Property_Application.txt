@@ -1,0 +1,40 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Loan Against Property Application
+Category: Loans
+
+REQUIREMENTS:
+
+Minimum Age: 25
+
+Maximum Age: 70
+
+Minimum Amount: 500000
+
+Maximum Amount: 50000000
+
+Documents Required:
+  - PAN Card (mandatory)
+  - Aadhaar Card
+  - Last 6 months bank statements
+  - Salary slips (last 3 months) or ITR (last 2 years)
+  - Address proof
+  - Passport size photographs (2 copies)
+  - Property documents (for secured loans)
+  - Employment proof
+
+Income Requirement: Minimum monthly income ₹50000
+
+Credit Score: Minimum CIBIL score: 650
+
+ELIGIBILITY CRITERIA:
+
+Employment Type:
+  - Salaried
+  - Self-employed
+  - Business
+
+Work Experience: Minimum 1 year
+
+Existing Loans: Debt-to-income ratio should not exceed 50%

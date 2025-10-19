@@ -1,0 +1,21 @@
+
+BANK FORM POLICY DOCUMENT
+
+Form Type: Digital Locker Activation
+Category: Digital Services
+
+REQUIREMENTS:
+
+Documents Required:
+  - Account number
+  - Registered mobile number
+  - Debit card details
+  - OTP verification
+
+Prerequisites: Active savings/current account
+
+ELIGIBILITY CRITERIA:
+
+Account Status: Active
+
+Mobile Verification: Mandatory
