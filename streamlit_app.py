@@ -1,3 +1,5 @@
+import warnings
+warnings.filterwarnings('ignore', message='.*torch.classes.*')
 """Streamlit UI for Bank Form Validator"""
 import streamlit as st
 import os
