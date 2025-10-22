@@ -1,22 +1,39 @@
-import warnings
-warnings.filterwarnings('ignore', message='.*torch.classes.*')
 """Streamlit UI for Bank Form Validator"""
-import streamlit as st
+import warnings
 import os
-import json
-from datetime import datetime
-import config
-from agents.extraction_agent import ExtractionAgent
-from agents.validation_agent import ValidationAgent
-from rag.vector_store import VectorStore
+import sys
+import logging
 
-# Page configuration
+# Suppress all warnings and logging
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+os.environ['PYTHONWARNINGS'] = 'ignore'
+warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore', category=UserWarning)
+warnings.filterwarnings('ignore', category=FutureWarning)
+warnings.filterwarnings('ignore', category=DeprecationWarning)
+
+# Suppress logging
+logging.getLogger().setLevel(logging.ERROR)
+logging.getLogger('transformers').setLevel(logging.ERROR)
+logging.getLogger('sentence_transformers').setLevel(logging.ERROR)
+
+import streamlit as st
+
+# Page configuration - MUST be first Streamlit command
 st.set_page_config(
     page_title="AI Bank Form Validator",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+# Now import other modules
+import json
+from datetime import datetime
+import config
+from agents.extraction_agent import ExtractionAgent
+from agents.validation_agent import ValidationAgent
+from rag.vector_store import VectorStore
 
 # Custom CSS
 st.markdown("""
